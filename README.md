@@ -44,7 +44,7 @@ Create 2 MQTT Out messages with the following topics:
 - alpha215/message
 - alpha215/effect
 
-The Message card will take any paylod from its input and push it to the display.
+The Message card will take any payload from its input and push it to the display.
 
 The Effect card will apply a display effect if you want to.
 
