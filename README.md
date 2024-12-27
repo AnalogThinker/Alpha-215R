@@ -50,6 +50,7 @@ The Effect card will apply a display effect if you want to.
 
 # Effects
 I used this protocol document as a base for this project.
+https://www.alpha-american.com/alpha-manuals/M-Protocol.pdf
 Interesting sections are 6.1.1 (Write TEXT file) on page 18, and 7.9.1 (Standard modes) on page 89.
 By default, message are sent using static centered display (0x62).
 You can modify the next message's effect by sending any of the effect code before your message (format in NodeRed payload would be 0x62 for "HOLD", Alpha document has it as "62H".
