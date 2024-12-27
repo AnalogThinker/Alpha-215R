@@ -14,9 +14,9 @@ You will need :
 On the Alpha sign:
 I am using the RS232 input (the right RJ12, labelled RS485/RS232 INPUT).
 Page 28 of this document shows the pinout: https://www.alpha-american.com/alpha-manuals/M-Networking-Alpha-Signs.pdf
-Pins 3/4 are for RX/TX
-Pins 2/5 are for RS485 -/+
-Pins 1/6 are VCC/GND
+- Pins 3/4 are for RX/TX
+- Pins 2/5 are for RS485 -/+
+- Pins 1/6 are VCC/GND
 
 On the ESP8266:
 I added a DPDT switch to break TX and VCC when I program it. I also added a diode for TX (optional).
