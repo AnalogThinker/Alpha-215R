@@ -3,8 +3,8 @@
 #include <PubSubClient.h>
 
 // WiFi credentials
-const char* ssid = "APX"; // <-- Put the SSID here
-const char* password = "3uae#smo"; // <-- Put the WiFi Password here
+const char* ssid = "xxx"; // <-- Put the SSID here
+const char* password = "xxx"; // <-- Put the WiFi Password here
 
 // MQTT broker credentials
 const char* mqtt_server = "192.168.x.x"; // Replace with your MQTT broker IP
